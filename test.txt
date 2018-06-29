@@ -3,3 +3,5 @@ this is a test file!
 I made a change.
 
 another change.
+
+I made this change in the newBranch
